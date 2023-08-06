@@ -3,17 +3,18 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/c0xff)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/c0xff)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sept.cuongvan)
-## 👋 Introduction
+
+## <img src="https://github.com/C0xff/C0xff/blob/main/Hi.gif" width="30px">&nbsp; Introduction
 ![status](https://img.shields.io/badge/status-up-brightgreen) 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 ![GitHub followers](https://img.shields.io/github/followers/C0xff?label=Follow&style=social)
 ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/C0xff)
-<img align="right" alt="GIF" src="https://github.com/C0xff/C0xff/blob/main/code.gif" width="240px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="320px"/>
 
 Hi guys, I'm [Van Cuong](https://github.com/C0xff), and I'm deeply immersed in the world of cybersecurity. With a strong passion for protecting digital realms, I dedicate myself to securing our ever-evolving technological landscape. Let's collaborate to ensure a safer digital future.
 I have some works with **JavaScript**, **Python** and **Shell Script**, contact me if you have same interesting or some questions!
 
-## 📫 More About Me:
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; More About Me
 - 🔭 &nbsp; I’m currently working from home
 - 🌱 &nbsp; I’m currently learning Nim
 - 💬 &nbsp; Ask me about anything if it's fun
@@ -21,7 +22,7 @@ I have some works with **JavaScript**, **Python** and **Shell Script**, contact 
 - 📫 &nbsp; How to reach me: sept.cuongvan@gmail.com
 - 😄 &nbsp; Pronouns: He/Him
 
-**Languages and Tools:**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=25px> Language and Tools
 <div align="center">
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -49,11 +50,11 @@ I have some works with **JavaScript**, **Python** and **Shell Script**, contact 
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
-### Projects and Dev Stuffs:
+## Projects and Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-  <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0xff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=merko" />
+  <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0xff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </details>
 
 <div align="center">
